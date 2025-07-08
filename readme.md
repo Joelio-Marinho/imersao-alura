@@ -51,7 +51,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
 ---
 
-## 
+## Comandos para deploy da aplicação do google cloud 
 ```sh
 gcloud auth login   
 gcloud config set project PROJECT_ID   
